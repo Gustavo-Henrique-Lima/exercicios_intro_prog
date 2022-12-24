@@ -1,0 +1,42 @@
+1 - Uma universidade deseja fazer um levantamento a respeito de seu concurso vestibular. Para cada curso, foram perfurados em um cartão:
+
+
+- o código do curso
+- número de vagas
+- número de candidatos do sexo masculino
+- número de candidatos do sexo feminino
+O último cartão, para indicar fim de dados, contém o código do curso igual a zero. Fazer um programa que:
+
+
+* calcule e escreva, para cada curso, o número de candidatos por vaga e a porcentagem de candidatos do sexo feminino (escreva também o código correspondente do curso)
+*determine o maior número de candidatos por vaga e escreva esse número juntamente com o código do curso correspondente (supor que não haja empate
+*calcule e escreva o total de candidatos
+
+
+2 - O sistema de avaliação de uma determinada disciplina obedece aos seguintes critérios:
+
+
+* durante os semestre são dadas três notas;
+* a nota final é obtida pela média aritmética das notas dadas durante o curso;
+* é considerado aprovado o aluno que obtiver a nota final superior ou igual a 60 e que tiver comparecido a um mínimo de 40 aulas.
+Fazer um programa que:
+a) leia um conjunto de dados contendo o número de matrícula, as três notas e a frequência (número de aulas frequentadas) de 100 alunos.
+b) calcule:
+- a nota final de cada aluno
+- a maior e a menor nota da turma
+- a nota média da turma
+- o total de alunos reprovados
+- a porcentagem de alunos reprovados por infrequência
+c) Escreva
+- para cada aluno, o número de matrícula, a frequência, a nota final e o código (aprovado ou reprovado)
+- o que foi calculado no item b(2,3,4 e 5)
+
+
+3 - Hoje é São João, festa tradicional do nordeste brasileiro e ainda mais especial a cidade de Caruaru. É uma homenagem a um dos santos mais queridos da tradição católica. Dessa homenagem, nasceu a tradição da fogueira de São João. Outra tradição da época é a formação da quadrilha junina. Homem e mulheres vestidos de roupas características para dançar. Infelizmente o atual ano não permite quadrilhas numerosas. Sendo assim, para manter a tradição definiu-se que seria formadas duas duplas para quadrilha. O problema que existiam 200 candidatos homens e 300 candidatas mulheres. Para resolver o problema foi definido que o homem mais alto faria par com a mulher mais alta e o homem mais baixo com a mulher mais baixa. Os demais candidatos não participariam da dança. Agora é com você. Faça um programa que:
+
+
+* Gere aleatoriamente a altura de todos os homens e mulheres
+* Exiba a altura da mulher mais alta.
+* Exiba a altura do homem mais alto
+* Exiba a altura do homem mais baixo
+* Exiba a altura da mulher mais baixa
